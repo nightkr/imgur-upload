@@ -1,0 +1,8 @@
+*.egg-info
+build
+dist
+pkg
+src
+*.pyc
+.directory
+*.pkg.tar.xz
